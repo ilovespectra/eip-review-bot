@@ -1,6 +1,6 @@
-name: EIP Review Bot
-description: Request reviewers for EIP modifications
-author: ethereum
+name: HIP Review Bot
+description: Request reviewers for HIP modifications
+author: helium
 
 inputs:
   token:
